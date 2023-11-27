@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tiago Gomes de Lima
 ===========================================================================================================================================
 
-Developer
----------
+Java Developer
+--------------
 
 * 🌍  I'm based in São Paulo - Brasil
 * 🖥️  See my portfolio at [Portfólio](http://www.tiagogomes.dev.br)
 * ✉️  You can contact me at [tiago@tiagogomes.dev.br](mailto:tiago@tiagogomes.dev.br)
-* 🚀  I'm currently working on [gtincatalog](http://github.com/tiagogomes187/gtincatalog)
+* 🚀  I'm currently working on [Assistente Administrativo | Escritório Miss-Miss Calçados](http://www.missmisscalcados.com.br)
 * 🧠  I'm learning Spring Boot
 * 🤝  I'm open to collaborating on Java Developer
 * ⚡  Graduado em Análise e Desenvolvimento de Sistemas, pela universidade de São Paulo, Unicid. Desde então venho estudando a linguagem Java e Spring Boot.
