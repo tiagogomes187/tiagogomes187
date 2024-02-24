@@ -6,7 +6,7 @@ Java Developer
 
 * 🌍  I'm based in São Paulo - Brasil
 * 🖥️  See my portfolio at [Portfólio](http://www.tiagogomes.dev.br)
-* ✉️  You can contact me at [tiago@tiagogomes.dev.br](mailto:tiago@tiagogomes.dev.br)
+* ✉️  You can contact me at [contato@tiagogomes.dev.br](mailto:tiago@tiagogomes.dev.br)
 * 🚀  I'm currently working on [Assistente Administrativo | Escritório Miss-Miss Calçados](http://www.missmisscalcados.com.br)
 * 🧠  I'm learning Spring Boot
 * 🤝  I'm open to collaborating on Java Developer
